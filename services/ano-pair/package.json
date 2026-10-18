@@ -1,0 +1,11 @@
+{
+  "name": "ano-pair",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Pairing service for the Ano iPhone app (zero dependencies)",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}
